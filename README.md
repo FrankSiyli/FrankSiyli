@@ -1,4 +1,4 @@
-#Frank Siyli (👋){ 
+## Frank Siyli (👋){ 
   - position: student at: [neue fische](https://www.neuefische.de) Web development bootcamp; 
   - city: Hamburg
   - reach me: [frank-siyli.com](https://frank-siyli.com)
