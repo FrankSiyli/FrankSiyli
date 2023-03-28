@@ -2,7 +2,7 @@
 .about(me){
   - position: student at [neue fische](https://www.neuefische.de) Web development bootcamp; 
   - city: Hamburg;
-  - reach me: [frank-siyli.com](frank-siyli.com);
+  - reach me: [frank-siyli.com](https://www.frank-siyli.com);
   - hobbies: coding and blow up my mind at intervals, mainly with triathlon 🐳 🚴🏼 🏃🏻‍♂️;  
   };;;;;;;;;;;;;;;;safety first
 
