@@ -1,6 +1,5 @@
 ### Hi, I´m Frank;
 .about(me){
-  - position: student at [neue fische](https://www.neuefische.de) Web development bootcamp; 
   - city: Hamburg;
   - reach me: [www.frank-siyli.com](https://next-js-portfolio-pi-nine.vercel.app);
   - hobbies: coding and blow up my mind at intervals, mainly with triathlon 🐳 🚴🏼 🏃🏻‍♂️;  
