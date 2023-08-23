@@ -4,4 +4,8 @@
 <p align="center">https://www.frank-siyli.com</p>
 <hr>
 
-![](https://komarev.com/ghpvc/?username=FrankSiyli)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=FrankSiyli" alt="Profile Views" />
+</p>
+
+
