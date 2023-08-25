@@ -16,9 +16,7 @@
 
 <hr>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FrankSiyli&show_icons=true&theme=transparent" alt="GitHub Stats">
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FrankSiyli&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
