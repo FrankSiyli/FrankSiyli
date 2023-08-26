@@ -1,6 +1,4 @@
 ### <p align="center">Hi, I´m Frank <sup>🌱</sup></p>
-
-
 <p align="center">Information and contact: www.frank-siyli.com</p>
 <p align="center">Have a nice day <sup>✌️</sup></p>
 
@@ -13,16 +11,7 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FrankSiyli&show_icons=true&theme=gotham" alt="abhisheknaiidu" ></p>
 <hr>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FrankSiyli&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=FrankSiyli" alt="Profile Views" />
-</p>
-
+   <img align="right" src="https://komarev.com/ghpvc/?username=FrankSiyli" alt="Profile Views" >
 
