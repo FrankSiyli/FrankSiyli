@@ -19,6 +19,5 @@
 
    <img align="right" src="https://komarev.com/ghpvc/?username=FrankSiyli" alt="Profile Views" >
 
-<hr>
 
 
