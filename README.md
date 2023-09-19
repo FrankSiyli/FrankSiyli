@@ -2,7 +2,7 @@
 <p align="center">Information and contact: www.frank-siyli.com</p>
 <p align="center">Have a nice day <sup>✌️</sup></p>
 
-<hr>
+
 
 <p align="center">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
