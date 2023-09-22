@@ -1,4 +1,6 @@
 ### <p align="center">Hi, I´m Frank <sup>🌱</sup></p>
+<hr>
+
 <p align="center">Information and contact: www.frank-siyli.com</p>
 <p align="center">Have a nice day <sup>✌️</sup></p>
 
