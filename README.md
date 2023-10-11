@@ -12,7 +12,7 @@
 <hr>
 <p > <img src="https://github-readme-stats.vercel.app/api?username=FrankSiyli&show_icons=true&theme=gotham" alt="abhisheknaiidu" ></p>
 
-   [![Visitors](https://api.visitorbadge.io/api/visitors?path=FrankSiyli&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=FrankSiyli)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=FrankSiyli&style=none&labelStyle=upper)](https://visitorbadge.io/status?path=FrankSiyli)
 </div>
 
 
