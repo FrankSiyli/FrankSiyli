@@ -18,7 +18,7 @@
 <div align="center">
     <details>
     <summary ></summary>
-    <p >Have a nice day <sup>✌️</sup></p>
+    <p >Have a great day <sup>✌️</sup></p>
     </details>
 </div>
 
