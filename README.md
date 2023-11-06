@@ -1,6 +1,6 @@
 <div align="center">
   <p >Hi, I´m Frank <sup>🌱</sup></p>
-  <p >Information and contact: www.frank-siyli.com</p>
+  <p >Informations and contact: www.frank-siyli.com</p>
 <br>
 <br>
 
