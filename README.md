@@ -18,7 +18,6 @@
     <details>
     <summary ></summary>
     <p >Have a great day <sup>✌️</sup></p>
-  <img src="https://api.visitorbadge.io/api/visitors?path=BreadcrumbsFrankSiyli&style=flat&labelStyle=upper">
     </details>
 </div>
 
