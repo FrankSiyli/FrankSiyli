@@ -14,10 +14,5 @@
 <br>
   <img src="https://github-readme-stats.vercel.app/api?username=FrankSiyli&show_icons=true&theme=gotham" alt="abhisheknaiidu" > 
 </div>
-<div align="center">
-    <details>
-    <summary ></summary>
-    <p >Have a great day <sup>✌️</sup></p>
-    </details>
-</div>
+
 
